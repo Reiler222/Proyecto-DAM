@@ -1,7 +1,5 @@
 # Proyecto FP Andrés
 
-## Arrancar la wea
-
 1. Realizar en la carpeta del repositorio mediante git: `docker-compose up -d`
 3. Cuando empiece a correr el Compose, ir a [Grafana](http://localhost:3000)
    - User: `admin`
